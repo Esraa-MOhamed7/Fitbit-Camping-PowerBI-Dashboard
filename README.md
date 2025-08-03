@@ -73,7 +73,7 @@ The analysis of the dashboards led to several actionable insights and strategic 
 ## Dashboard Snapshots
 
 ### Marketing Overview
-![Marketing Overview Dashboard](marketing_overview_snapshot.png)
+![Marketing Overview Dashboard](https://github.com/Esraa-MOhamed7/Fitbit-Camping-PowerBI-Dashboard/blob/main/fitbit_dashboard1.png)
 
 ### Customer Insights
 ![Customer Insights Dashboard](customer_insights_snapshot.png)
